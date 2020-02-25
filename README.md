@@ -4,3 +4,8 @@ An application for transferring files using the Blockchain and Multi-chain netwo
 Paper publication in International Journal of Current Engineering and Scientific Research (IJCESR)
 http://troindia.in/journal/ijcesr/vol4iss4/169-175.pdf
 
+> Authors:
+> * Vignesh Mohan
+> * P Sri Balaji
+> * Santhosh Kumar
+
