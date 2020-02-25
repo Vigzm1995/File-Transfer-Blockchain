@@ -9,10 +9,3 @@ http://troindia.in/journal/ijcesr/vol4iss4/169-175.pdf
 > * P Sri Balaji
 > * Santhosh Kumar
 
-## Dependencies
-
-* Java
-* PHP
-* Multichain
-* AWS Instance 
-* Putty
